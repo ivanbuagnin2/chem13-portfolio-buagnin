@@ -1,0 +1,7 @@
+Ivan Frederick N. Buagnin      BSChE-2B     A.I use disclosure
+Graded Exercise 3
+
+Artificial intelligence was utilized as a supportive auxiliary tool throughout the completion of the "Drawing from the Name and Naming from the Drawing" organic chemistry portfolio activity. Specifically, AI-powered systems were consulted to double-check calculated molecular formulas, verify ring and chain degrees of unsaturation, and cross-reference IUPAC nomenclature rules for complex alkane and cycloalkane derivatives.
+All primary structural analyses, parent chain identifications, substituent locant numbering, and visual skeletal drawings were independently derived and completed by the student. The AI served strictly as a validation partner to cross-verify answers, catch potential naming ambiguities, and ensure overall academic accuracy before final compilation of the portfolio.
+
+
